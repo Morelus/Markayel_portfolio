@@ -1,0 +1,19 @@
+body {background-color: rgb(255, 224, 23);}
+
+h1 {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+h3 {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+h4 {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
