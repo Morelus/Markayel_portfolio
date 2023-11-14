@@ -1,6 +1,6 @@
 import React from "react";
-import Welcome from "./Components/Welcome";
-import Projects from "./Components/Projects";
+// import Welcome from "./Components/Welcome";
+// import Projects from "./Components/Projects";
 import About from "./Components/About";
 import Tom from "./Components/Tom";
 import './App.css'
@@ -11,9 +11,10 @@ return (
 <div class= "welcome">
       
     </div>
-<Projects />
+{/* <Projects /> */}
 <About />
 <Tom/>
+{/* <Welcome /> */}
 <div class= "picbox"> 
 <p> Female </p>
 <p> San Diego, CA</p>
