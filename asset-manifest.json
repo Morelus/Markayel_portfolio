@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Markayel_portfolio/static/css/main.35f60920.css",
+    "main.js": "/Markayel_portfolio/static/js/main.2978e20e.js",
+    "static/media/IMG_4270-removebg-preview.png": "/Markayel_portfolio/static/media/IMG_4270-removebg-preview.ef4b6d4a660412812a63.png",
+    "index.html": "/Markayel_portfolio/index.html",
+    "main.35f60920.css.map": "/Markayel_portfolio/static/css/main.35f60920.css.map",
+    "main.2978e20e.js.map": "/Markayel_portfolio/static/js/main.2978e20e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35f60920.css",
+    "static/js/main.2978e20e.js"
+  ]
+}
